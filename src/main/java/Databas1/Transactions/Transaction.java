@@ -14,6 +14,7 @@ public class Transaction {
         this.date = date;
     }
 
+
     public String getDescription() {
         return description;
     }
